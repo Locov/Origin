@@ -1,3 +1,4 @@
+My first change Solodov
 Private Sub CommandButton1_Click()
 Dim sale As Single
 Dim i As Integer

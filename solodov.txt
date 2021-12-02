@@ -1,4 +1,3 @@
-My second change Solodov
 My first change Solodov
 Private Sub CommandButton1_Click()
 Dim sale As Single
